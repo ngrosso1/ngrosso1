@@ -62,18 +62,11 @@
   </table>
 </div>
 
+![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
 
 
 ###
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ngrosso1&theme=github-dark-dimmed&custom_title=Ngrosso1%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngrosso1/ngrosso1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ngrosso1/ngrosso1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ngrosso1/ngrosso1/output/pacman-contribution-graph.svg">
-</picture>
-
-###
