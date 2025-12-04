@@ -4,7 +4,6 @@
 
 <p align="center">Im Nicholas Grosso, a passionate fullstack developer from <b>Raleigh, NC, USA</b> <img src="https://github.com/user-attachments/assets/44389190-52be-486a-b3f8-3dc5d8cf3998" width="20"/></p>
 
-
 ###
 
 <div align="center">
@@ -41,7 +40,6 @@
 ###
 
 <div align="center">
-
   <table>
     <tr>
       <td align="left">
@@ -62,11 +60,19 @@
   </table>
 </div>
 
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
+---
 
+## 📊 Stats
 
-###
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ngrosso1&theme=github-dark-dimmed&custom_title=Ngrosso1%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg" width="250"/>
+      </td>
+      <td>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ngrosso1&theme=github-dark-dimmed&custom_title=Ngrosso1%20Activity%20Graph&hide_border=true" width="500"/>
+      </td>
+    </tr>
+  </table>
+</div>
